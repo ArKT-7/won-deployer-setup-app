@@ -413,7 +413,7 @@ fun ApkInstallerScreen(
                     .padding(top = 15.dp)
             )
             Text(
-                text = "By °⊥⋊ɹ∀° Github - ArKT-7, Telegram - ArKT_7  @2024",
+                text = "By °⊥⋊ɹ∀° Github - ArKT-7, Telegram - ArKT_7  © 2024-2025",
                 style = MaterialTheme.typography.headlineLarge.copy(
                     fontSize = 16.sp,
                     fontWeight = FontWeight.Bold,
